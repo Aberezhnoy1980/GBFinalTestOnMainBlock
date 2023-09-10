@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Page Title</title>
-    <style>
-      .boxed {
-        background: black;
-        color: white;
-        border: 3px solid #535353;
-        margin: 0px auto;
-        width: 456px;
-        padding: 10px;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="boxed">
-     <p style="text-align: center; color: red;">DISCLAIMER</p>
+<div style="background: black; color: white; border: 3px solid black; margin: 0px auto; width: 456px; padding: 10px; border-radius: 5px;">
+    <p style="text-align: center; color: red; ">DISCLAIMER</p>
     Представленные решения не претендуют на эффективность или истинность и представлены с целью академического изучения и самоконтроля
-    </div>
-  </body>
-</html>
+</div>
 
 # Итоговая контрольная работа по основному блоку
 
